@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\WinForm\WinForm\bin\Debug\WinForm.exe.config
+C:\Users\hp\Desktop\WinForm\WinForm\bin\Debug\WinForm.exe
+C:\Users\hp\Desktop\WinForm\WinForm\bin\Debug\WinForm.pdb
+C:\Users\hp\Desktop\WinForm\WinForm\obj\Debug\WinForm.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\WinForm\WinForm\obj\Debug\WinForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\WinForm\WinForm\obj\Debug\WinForm.Form1.resources
+C:\Users\hp\Desktop\WinForm\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+C:\Users\hp\Desktop\WinForm\WinForm\obj\Debug\WinForm.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\WinForm\WinForm\obj\Debug\WinForm.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\WinForm\WinForm\obj\Debug\WinForm.exe
+C:\Users\hp\Desktop\WinForm\WinForm\obj\Debug\WinForm.pdb
